@@ -8,7 +8,7 @@ Este é um projeto back end desenvolvido com Next.js para o Front end challenge 
 $ cd api
 
 ### Instale as dependências
-$ yarn i
+$ yarn install
 
 ### Execute a aplicação localmente
 $ yarn start
